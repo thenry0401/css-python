@@ -11,7 +11,7 @@ if __name__ == '__main__':
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_socket.bind(addr)
     server_socket.listen(5)
-    server_socket.getsockopt(server.SOL_SOCKET, socket.SO_REUSEARRD, 1)
+    server_socket.getsockopt(socket.SOL_SOCKET, socket.SO_REUSEARRD, 1)
 
     while True:
         print("Server is listening...")
