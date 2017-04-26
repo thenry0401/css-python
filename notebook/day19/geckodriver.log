@@ -1,0 +1,158 @@
+1493094495343	geckodriver	INFO	Listening on 127.0.0.1:36027
+1493094496398	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493094498766	Marionette	INFO	Listening on port 37731
+1493094498981	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1493094896812	geckodriver	INFO	Listening on 127.0.0.1:58545
+1493094897889	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493094900238	Marionette	INFO	Listening on port 42099
+1493094900516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+1493095137786	geckodriver	INFO	Listening on 127.0.0.1:52027
+1493095138837	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493095141112	Marionette	INFO	Listening on port 45611
+1493095141396	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1493095154145	geckodriver	INFO	Listening on 127.0.0.1:41743
+1493095155228	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493095157411	Marionette	INFO	Listening on port 35357
+1493095157749	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493095610802	geckodriver	INFO	Listening on 127.0.0.1:49097
+1493095611872	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493095614026	Marionette	INFO	Listening on port 33673
+1493095614221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493095634672	geckodriver	INFO	Listening on 127.0.0.1:48027
+1493095635733	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493095637990	Marionette	INFO	Listening on port 36969
+1493095638351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493095657801	geckodriver	INFO	Listening on 127.0.0.1:45369
+1493095658868	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493095660842	Marionette	INFO	Listening on port 37437
+1493095661189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493095689060	geckodriver	INFO	Listening on 127.0.0.1:50177
+1493095690133	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493095692807	Marionette	INFO	Listening on port 38813
+1493095693013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493095725771	geckodriver	INFO	Listening on 127.0.0.1:44193
+1493095726840	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493095729480	Marionette	INFO	Listening on port 39087
+1493095729632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493096794748	geckodriver	INFO	Listening on 127.0.0.1:32973
+1493096795806	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493096797980	Marionette	INFO	Listening on port 39393
+1493096798305	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1493097798269	geckodriver	INFO	Listening on 127.0.0.1:58739
+1493097799338	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493097801592	Marionette	INFO	Listening on port 42335
+1493097801947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493098082932	geckodriver	INFO	Listening on 127.0.0.1:48197
+1493098084097	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493098087186	Marionette	INFO	Listening on port 41275
+1493098087449	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1493098116497	geckodriver	INFO	Listening on 127.0.0.1:44161
+1493098117572	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493098120331	Marionette	INFO	Listening on port 35767
+1493098120591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493098141655	geckodriver	INFO	Listening on 127.0.0.1:45541
+1493098142853	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493098145869	Marionette	INFO	Listening on port 41481
+1493098146016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493098162743	geckodriver	INFO	Listening on 127.0.0.1:49201
+1493098163808	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493098166124	Marionette	INFO	Listening on port 34397
+1493098166387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1493098527953	geckodriver	INFO	Listening on 127.0.0.1:52487
+1493098529004	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493098531137	Marionette	INFO	Listening on port 42951
+1493098531520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+1493099179716	geckodriver	INFO	Listening on 127.0.0.1:38211
+1493099180855	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493099183449	Marionette	INFO	Listening on port 41015
+1493099183661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1493099854952	geckodriver	INFO	Listening on 127.0.0.1:32837
+1493099856108	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493099860332	Marionette	INFO	Listening on port 42351
+1493099860803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1493099917315	geckodriver	INFO	Listening on 127.0.0.1:52015
+1493099918424	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1493099922992	Marionette	INFO	Listening on port 34647
+1493099923214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 89: unreachable code after return statement
+JavaScript warning: http://cafe.naver.com/static/js/mycafe/common/storyphoto/original_viewer-1476780396000-41944.js, line 134: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
