@@ -33,9 +33,16 @@ def postuser():
         finally:
             return render_template("signup.html", msg = msg)
             conn.close()
-            
+
 @app.route('/users')
 def users():
+    conn = lite.connect("users.db")
+    conn.row_factory = lite.row_factory
+
+    cur = conn.cursor()
+    cur.execute("SELECT * form user")
+
+    rows = cur.fetchall()
     return render_template("users.html")
 
 if __name__ == '__main__':
